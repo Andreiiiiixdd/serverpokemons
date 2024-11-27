@@ -1,0 +1,19 @@
+{
+  "registers": {
+    "quaxly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732419502207,
+        "caughtTimestamp": 1732419502207
+      }
+    },
+    "walkingwake": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1732419966736
+      }
+    }
+  }
+}

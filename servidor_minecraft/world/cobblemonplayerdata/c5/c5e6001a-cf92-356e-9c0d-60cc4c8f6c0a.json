@@ -1,0 +1,52 @@
+{
+  "uuid": "c5e6001a-cf92-356e-9c0d-60cc4c8f6c0a",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "02184e55-b8b7-4bc1-a078-85cc7ddb933a",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "quaxly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732419502201,
+            "caughtTimestamp": 1732419502201
+          }
+        },
+        "walkingwake": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1732419966734
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 2,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:purrloin": 1,
+      "cobblemon:sandshrew": 1
+    },
+    "aspectsCollected": {}
+  }
+}
