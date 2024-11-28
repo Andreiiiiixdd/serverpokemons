@@ -1,0 +1,68 @@
+{
+  "registers": {
+    "froakie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732670765588,
+        "caughtTimestamp": 1732670765588
+      }
+    },
+    "oddish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732671370341,
+        "caughtTimestamp": 1732671370341
+      }
+    },
+    "frogadier": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732671579875,
+        "caughtTimestamp": 1732671579875
+      }
+    },
+    "greninja": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732671622416,
+        "caughtTimestamp": 1732671622416
+      }
+    },
+    "gloom": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732671627400,
+        "caughtTimestamp": 1732671627400
+      }
+    },
+    "vileplume": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732671653265,
+        "caughtTimestamp": 1732671653265
+      }
+    },
+    "haunter": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732672904272,
+        "caughtTimestamp": 1732672904272
+      }
+    },
+    "gengar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1732834925796,
+        "caughtTimestamp": 1732834925796
+      }
+    }
+  }
+}

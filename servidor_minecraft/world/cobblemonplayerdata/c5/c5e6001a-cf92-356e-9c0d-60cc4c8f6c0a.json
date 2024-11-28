@@ -1,0 +1,106 @@
+{
+  "uuid": "c5e6001a-cf92-356e-9c0d-60cc4c8f6c0a",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7f6a3811-c4ac-4333-850a-ff53a0416b3d",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "froakie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732670765585,
+            "caughtTimestamp": 1732670765585
+          }
+        },
+        "oddish": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732671370340,
+            "caughtTimestamp": 1732671370340
+          }
+        },
+        "frogadier": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732671579875,
+            "caughtTimestamp": 1732671579875
+          }
+        },
+        "greninja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732671622416,
+            "caughtTimestamp": 1732671622416
+          }
+        },
+        "gloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732671627400,
+            "caughtTimestamp": 1732671627400
+          }
+        },
+        "vileplume": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732671653265,
+            "caughtTimestamp": 1732671653265
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732672904271,
+            "caughtTimestamp": 1732672904271
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1732834925794,
+            "caughtTimestamp": 1732834925794
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 8,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 5,
+    "totalPvNBattleVictoryCount": 3,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "grass": 1,
+      "poison": 2,
+      "ghost": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:meganium": 1,
+      "cobblemon:binacle": 1,
+      "cobblemon:grimer": 1
+    },
+    "aspectsCollected": {}
+  }
+}
